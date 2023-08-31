@@ -1,0 +1,7 @@
+.centre-button {
+    margin: 25% 45%;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: aquamarine;
+    cursor: pointer;
+}

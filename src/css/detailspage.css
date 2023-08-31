@@ -1,0 +1,39 @@
+.parent-div {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.child-div {
+    display: block !important;
+    margin-bottom: 10px;
+}
+
+.child-input {
+    display: block !important;
+    margin-bottom: 10px;
+}
+
+.table {
+    margin: 30px auto;
+}
+
+.table-cell {
+    margin-right: 5px;
+}
+
+.final-submit-button {
+    margin: 15px 45%;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+.message {
+    margin: 15px 45%;
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: rgb(16, 243, 9);
+}
+
+
